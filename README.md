@@ -2,7 +2,7 @@
 
 👀 I’m interested in exploring new technologies.
 💞️ I’m looking to collaborate on projects related to software development .
-📫 How to reach me: You can contact me via email at ayushi121104@gmail.com or connect with me on LinkedIn.
+📫 How to reach me: You can contact me via email at ayushi121104@gmail.com or on LinkedIn.
 😄 Pronouns: She/her
 
 <!---
