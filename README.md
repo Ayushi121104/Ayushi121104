@@ -1,4 +1,4 @@
-![GitHub Profile views](https://img.shields.io/github/profile-views/Ayushi121104/README.md)
+![GitHub Profile views](https://komarev.com/ghpvc/?username=Ayushi121104)
 - 👋 Hi, I’m @Ayushi!
 
 👀 I’m interested in exploring new technologies.
