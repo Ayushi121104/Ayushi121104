@@ -1,3 +1,4 @@
+![GitHub Profile views](https://img.shields.io/github/profile-views/Ayushi121104/README.md)
 - 👋 Hi, I’m @Ayushi!
 
 👀 I’m interested in exploring new technologies.
